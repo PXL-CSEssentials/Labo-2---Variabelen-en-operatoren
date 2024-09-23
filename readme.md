@@ -23,9 +23,8 @@ Maak een variabele voor elk van de volgende klantengegevens:
 ## Deel 3 - Verslag printen
 Nadat het programma alle gegevens heeft ontvangen van de klant wordt er een samenvatting afgedrukt in de console.
 Gebruik string interpolatie om de variabelen te injecteren in een samenvatting. Zorg er voor dat je samenvatting uitlijning bevat.
-
-	![afbeelding](media/voorbeeld3.png)
-	![afbeelding](media/voorbeeld4.png)
+![afbeelding](media/voorbeeld3.png)
+![afbeelding](media/voorbeeld4.png)
 
 ## Deel 4 - TryParse
 Pas je Ethias registratie programma aan, zodat het niet meer kan crashen wanneer er ongeldige input wordt ingegeven. Gebruik TryParse om je waardes te converteren.

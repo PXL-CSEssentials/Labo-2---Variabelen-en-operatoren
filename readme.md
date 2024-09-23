@@ -1,4 +1,4 @@
-# Labo 5 - Methodes
+# Labo 2 - Variabelen en Operatoren
 
 Het registratieformulier van Ethias werkt niet meer. Er is aan jou gevraagd om een tijdelijke vervanging te programmeren in een Console programma.
 
